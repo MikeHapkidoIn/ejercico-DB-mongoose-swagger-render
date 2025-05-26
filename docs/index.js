@@ -7,3 +7,6 @@ module.exports = {
   ...components,
   ...task
 }
+
+
+//prueba para ver si se cambia el nombre del autor
